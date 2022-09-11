@@ -1,0 +1,21 @@
+.drop-down {
+    color: #52526A;
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 26px;
+    width: 170px;
+    height: 40px;
+    border-radius: 4px;
+}
+
+.option-line {
+    height: 34px;
+    width: 298px;
+    color: #52526A;
+    font-family: "HK Grotesk";
+    font-size: 16px;
+    font-weight: 600;
+    letter-spacing: 0;
+    line-height: 26px;
+}

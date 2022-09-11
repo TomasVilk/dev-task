@@ -1,0 +1,13 @@
+.checkout-wrapper {
+    align-items: center;
+    background-color: #fff;
+    border-top: 1px solid #E8DFED;
+    bottom: 0;
+    box-sizing: border-box;
+    display: flex;
+    height: 70px;
+    justify-content: space-between;
+    padding: 0 20px;
+    position: fixed;
+    width: 100%;
+}

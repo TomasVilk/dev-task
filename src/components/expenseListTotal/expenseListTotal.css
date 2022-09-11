@@ -1,0 +1,25 @@
+.list-total {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    align-items: center;
+    border-bottom: 1px solid #E8DFED;
+}
+
+.list-label {
+    color: #250B38;
+    font-family: "HK Grotesk";
+    font-size: 16px;
+    font-weight: 500;
+    letter-spacing: 0;
+    line-height: 26px;
+}
+
+.list-sum {
+    color: #250B38;
+    font-family: "HK Grotesk";
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 0;
+    line-height: 21px;
+}
